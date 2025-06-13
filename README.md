@@ -31,7 +31,7 @@ A complete Laravel 10-based event ticket booking system designed for PHP Develop
 ## 🚀 Installation Steps
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/tulsi-321/interviewtask.git>
 cd eventmanagement
 composer install
 cp .env.example .env
